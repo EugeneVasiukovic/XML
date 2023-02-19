@@ -6,10 +6,10 @@
       <discription>При нажатии иконки instagram cтраница не найдена</discription>
       <environment>Prod_001</environment>
       <stepstoreproduce>
-                            <1>открыть сайт capital.com локализация EN</1>
-                            <2>проскролить страницу до блока footer</2>
-                            <3>в блоке соц.сети кликнуть на иконку instagram</3>
-                            <4>редерикт_на_сайт_instagram.com_аккаунт_capital.com_не_найден</4>              
+                            <one>открыть сайт capital.com локализация EN</one>
+                            <two>проскролить страницу до блока footer</two>
+                            <three>в блоке соц.сети кликнуть на иконку instagram</three>
+                            <four>редерикт на сайт instagram.com аккаунт capital.com не найден</four>              
       </stepstoreproduce>                      
       <actualresult>при клике на икунку instagram происходит редирект на instagram.com аккаунт capital.com не найден</actualresult>
       <expectedresult>при клик на икунку instagram происходит редирект на instagram.com аккаунт capital.com отображается</expectedresult>
