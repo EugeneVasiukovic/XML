@@ -1,7 +1,8 @@
-<xml version="1.0" encoding="UTF-8">
+<doc>
 <main>
 <fullname>Vasiukovich Eugene Nikolaevich</fullname>
 <age>28</age>
 <pets>2</pets>
 <futuresalary>1500$</futuresalary>
 </main>
+</doc>
