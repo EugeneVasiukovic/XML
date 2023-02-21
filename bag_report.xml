@@ -4,7 +4,7 @@
       <severity>minor</severity>
       <priority>low</priority>
       <discription>При нажатии иконки instagram cтраница не найдена</discription>
-      <environment>Prod_001</environment>
+      <environment>chroom 109</environment>
       <stepstoreproduce>
                             <one>открыть сайт capital.com локализация EN</one>
                             <two>проскролить страницу до блока footer</two>
